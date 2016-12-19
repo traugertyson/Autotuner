@@ -5,7 +5,6 @@
 #include <stdlib.h>
 #include "portaudio.h"
 #include <complex.h>
-#include <fftw3.h>
 #include <aubio.h>
 #include <unistd.h>  /* UNIX standard function definitions */
 #include <fcntl.h>   /* File control definitions */
